@@ -1,0 +1,12 @@
+{
+  "Browser": "Chrome",
+  "Chrome incognito": "--incognito",
+  "Chrome set english": "--lang=en-GB",
+  "Chrome maximize": "--start-maximized",
+  "Firefox incognito": "-private",
+  "Firefox choose language": "intl.accept_languages",
+  "Firefox set english": "en-gb",
+  "Start URL": "www.google.com",
+  "ID1": 0,
+  "ID2": 1
+}
